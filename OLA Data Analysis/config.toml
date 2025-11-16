@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#1f77b4"          # Accent color (buttons, highlights)
+backgroundColor = "#f9f9f9"       # Page background
+secondaryBackgroundColor = "#ffffff" # Sidebar and card background
+textColor = "#262730"             # Text color
+font = "sans serif"               # Options: serif, sans serif, monospace
