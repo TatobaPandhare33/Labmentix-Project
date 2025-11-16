@@ -1,1 +1,110 @@
+# Instagram Performance Analytics for Sugar Cosmetics
+
+This project provides a complete social media analytics report of **Sugar Cosmetics' Instagram** performance using Power BI / Tableau.  
+It includes KPI dashboards, engagement insights, top-performing posts, hashtag analysis, and strategic recommendations for boosting marketing performance.
+
+---
+
+## 🚀 Project Objectives
+
+- Analyze engagement (Likes, Comments, Saves, Shares)
+- Identify monthly posting trends and high-performing content
+- Compare post formats: Image, Video, Carousel
+- Study hashtag performance and weekday trends
+- Build an interactive dashboard using Power BI / Tableau
+- Provide strategy recommendations for social media growth
+
+---
+
+## 📊 Key Features & Dashboards
+
+### ✔ 1. KPI Overview
+- Total Posts  
+- Total Likes  
+- Total Comments  
+- Total Reach  
+- Average Engagement Rate  
+
+### ✔ 2. Monthly Posting Trend
+Shows posting consistency month-by-month.
+
+### ✔ 3. Top 10 Posts by Likes
+Identifies most appreciated content.
+
+### ✔ 4. Top 10 Posts by Engagement Rate
+Shows high-quality engagement posts.
+
+### ✔ 5. Post Type Comparison
+Compares Image vs Carousel vs Video on:
+- Likes  
+- Comments  
+- Saves  
+
+### ✔ 6. Day-of-Week Analysis  
+Finds best performing days for posting.
+
+### ✔ 7. Engagement Funnel  
+Impressions → Reach → Likes → Comments → Saves
+
+### ✔ 8. Hashtag Analysis  
+Reveals hashtags that improve reach and engagement.
+
+---
+
+## 🛠 Tools & Techniques Used
+
+- **Power BI / Tableau**
+- **Excel / Google Sheets**
+- DAX Calculations
+- Data Cleaning & Transformation
+- Data Visualization and Storytelling
+- Documented Insights & Recommendations
+
+---
+
+## 🧹 Data Cleaning Steps
+
+- Date formatting and extraction of Month/Year
+- Removing duplicates
+- Creating new metrics (Engagement Rate)
+- Standardizing column names
+- Handling null / missing values
+
+---
+
+---
+
+## 🎯 Business Insights (Summary)
+
+- Reels generate higher engagement than images.
+- Tutorials, product demos, and how-to posts receive more saves.
+- Weekdays (Tue–Fri) show the strongest engagement.
+- Hashtags related to trends and product categories help improve reach.
+
+---
+
+## 📌 Recommendations
+
+- Increase Reel posting frequency  
+- Use trending audio + 8–12 targeted hashtags  
+- Improve CTA-based captions  
+- Collaborate with influencers & makeup creators  
+- Schedule posts on high-engagement days  
+- Focus on save-worthy educational content  
+
+---
+
+## 📬 Author
+**Tatoba Pandhare**  
+Data Analyst • BI Developer  
+GitHub: https://github.com/TatobaPandhare33  
+LinkedIn: https://linkedin.com/in/tatoba-pandhare-952365298
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
+
+
 
