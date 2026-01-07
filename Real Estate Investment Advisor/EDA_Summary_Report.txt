@@ -1,0 +1,61 @@
+===== EDA SUMMARY REPORT =====
+
+                  ID            BHK           Area          Price  \
+count  250000.000000  250000.000000  250000.000000  250000.000000   
+mean   125000.500000       2.999396    2749.813216     254.586854   
+std     72168.927986       1.415521    1300.606954     141.349921   
+min         1.000000       1.000000     500.000000      10.000000   
+25%     62500.750000       2.000000    1623.000000     132.550000   
+50%    125000.500000       3.000000    2747.000000     253.870000   
+75%    187500.250000       4.000000    3874.000000     376.880000   
+max    250000.000000       5.000000    5000.000000     500.000000   
+
+       Price_per_SqFt     Year_Built       Floor_No   Total_Floors  \
+count   250000.000000  250000.000000  250000.000000  250000.000000   
+mean     13058.281776    2006.520012      14.966800      15.503004   
+std      13071.850480       9.808575       8.948047       8.671618   
+min        202.247191    1990.000000       0.000000       1.000000   
+25%       4802.839710    1998.000000       7.000000       8.000000   
+50%       9244.747594    2007.000000      15.000000      15.000000   
+75%      15987.388517    2015.000000      23.000000      23.000000   
+max      99182.000000    2023.000000      30.000000      30.000000   
+
+       Age_of_Property  Nearby_Schools  Nearby_Hospitals  
+count    250000.000000   250000.000000     250000.000000  
+mean         18.479988        5.499860          5.498016  
+std           9.808575        2.878639          2.871860  
+min           2.000000        1.000000          1.000000  
+25%          10.000000        3.000000          3.000000  
+50%          18.000000        5.000000          5.000000  
+75%          27.000000        8.000000          8.000000  
+max          35.000000       10.000000         10.000000  
+
+===== Missing Values =====
+ID                                0
+State                             0
+City                              0
+Locality                          0
+Property_Type                     0
+BHK                               0
+Area                              0
+Price                             0
+Price_per_SqFt                    0
+Year_Built                        0
+Furnished_Status                  0
+Floor_No                          0
+Total_Floors                      0
+Age_of_Property                   0
+Nearby_Schools                    0
+Nearby_Hospitals                  0
+Public_Transport_Accessibility    0
+Parking_Space                     0
+Security                          0
+Amenities                         0
+Facing                            0
+Owner_Type                        0
+Availability_Status               0
+Age_Range                         0
+dtype: int64
+
+===== Columns =====
+['ID', 'State', 'City', 'Locality', 'Property_Type', 'BHK', 'Area', 'Price', 'Price_per_SqFt', 'Year_Built', 'Furnished_Status', 'Floor_No', 'Total_Floors', 'Age_of_Property', 'Nearby_Schools', 'Nearby_Hospitals', 'Public_Transport_Accessibility', 'Parking_Space', 'Security', 'Amenities', 'Facing', 'Owner_Type', 'Availability_Status', 'Age_Range']
